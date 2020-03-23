@@ -1,6 +1,6 @@
 # functions-to-methods/
 
-> 3/10/2020, 12:43:39 PM 
+> 2020-3-23 17:06:08 
 
 ## examples/ - pass
 
