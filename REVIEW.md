@@ -1,12 +1,12 @@
 # functions-to-methods/
 
-> 3/10/2020, 12:43:39 PM 
+> 2020-3-23 17:06:08 
 
-## ./ - error
+## ./ - pass
 
 
 ### sub-directories
 
-* [challenges/](./challenges/REVIEW.md) - error
+* [challenges/](./challenges/REVIEW.md) - pass
 * [examples/](./examples/REVIEW.md) - pass
 
